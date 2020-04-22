@@ -5,11 +5,18 @@ body{
 	line-height: 30px;
 }
 
+/* header styles */
+
 header{
 	background-color: #FFFFCC;
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
+}
+
+.background{
+	background-image: url("../img/barbarossabackground.jpg");
+	opacity: 6;
 }
 
 h1, h2{
