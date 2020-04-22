@@ -1,0 +1,90 @@
+body{
+	margin: 0;
+	font-family: 'Uncial Antiqua', cursive, Garamond, Helvetica, Sans-serif;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+header{
+	background-color: #FFFFCC;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1, h2{
+	font-family: 'Uncial Antiqua', cursive;
+}
+
+header h1 {
+	color: black;
+	font-size: 50px;
+}
+
+header img{
+	border-radius: 200px;
+	width: 300px;
+	border: 10px solid;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	color: black;
+	font-size: 30px;
+	margin-top: 40px;
+}
+
+a{
+	color: blue;
+
+}
+
+a:hover{
+	color: red;
+}
+
+footer{
+	background-color: #FFFFCC;
+	text-align: center;
+	color: black;
+	padding: 50px;
+}
+
+footer p{
+	margin: 0px;
+}
+
+p.caption{
+	color: black;
+	text-align: center;
+	margin:0px;
+}
+
+h1 span{
+	font-size: 70px;
+	color: red;
+}
+
+h2 span{
+	font-size: 50px;
+	color: red;
+}
+
+span{
+	color: red;
+}
+
+
+
+
+
+
