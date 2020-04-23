@@ -9,14 +9,16 @@ body{
 
 header{
 	background-color: #FFFFCC;
+	background-image: url("../img/barbarossabackground.jpg");
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
 
-.background{
-	background-image: url("../img/barbarossabackground.jpg");
-	opacity: 6;
+div.background{
+	
+}
+
 }
 
 h1, h2{
@@ -26,6 +28,7 @@ h1, h2{
 header h1 {
 	color: black;
 	font-size: 50px;
+	margin-top: 70px;
 }
 
 header img{
